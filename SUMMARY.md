@@ -1,5 +1,4 @@
 # Table of contents
 
-* [專案及git建置](README.md)
-* [GMAIL寄信](README.md)
+* [從git建置到發信](README.md)
 
